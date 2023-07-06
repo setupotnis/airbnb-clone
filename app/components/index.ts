@@ -3,4 +3,6 @@ export { Button } from "./button";
 export { default as Container } from "./container";
 export { default as ClientOnly } from "./clientOnly";
 export { Logo, Navbar, Search } from "./navbar";
-export { Modal } from "./modals";
+export { Modal, RegisterModal } from "./modals";
+export { Heading } from "./heading";
+export { Input } from "./inputs";
