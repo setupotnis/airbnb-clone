@@ -1,0 +1,76 @@
+{
+  "window.commandCenter": false,
+  "editor.guides.bracketPairs": true,
+  "workbench.colorTheme": "GitHub Dark Dimmed",
+  "workbench.editor.enablePreview": false,
+  "workbench.editor.enablePreviewFromQuickOpen": false,
+  "window.zoomLevel": 0,
+  "diffEditor.ignoreTrimWhitespace": false,
+  "editor.multiCursorModifier": "ctrlCmd",
+  "editor.renderWhitespace": "none",
+  "editor.renderControlCharacters": false,
+  "editor.fontSize": 12,
+  "editor.wordWrap": "on",
+  "gitlens.views.repositories.files.layout": "tree",
+  "breadcrumbs.enabled": true,
+  "breadcrumbs.symbolPath": "last",
+  "editor.fontFamily": "Fira Code, Open Sans, Menlo, Monaco, 'Courier New', monospace",
+  "editor.letterSpacing": 0,
+  "editor.fontWeight": "400",
+  "editor.tabSize": 4,
+  "editor.detectIndentation": false,
+  "editor.autoIndent": "full",
+  "editor.trimAutoWhitespace": true,
+  "editor.lineNumbers": "on",
+  "editor.formatOnSave": true,
+  "editor.cursorStyle": "line",
+  "editor.fontLigatures": true,
+  "editor.acceptSuggestionOnEnter": "smart",
+  "editor.minimap.enabled": false,
+  "editor.snippetSuggestions": "bottom",
+  "editor.showUnused": true,
+  "editor.tabCompletion": "on",
+  "explorer.openEditors.visible": 1,
+  "vsicons.presets.jsOfficial": true,
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.activityBar.visible": true,
+  "workbench.panel.defaultLocation": "right",
+  "workbench.editor.highlightModifiedTabs": true,
+  "workbench.startupEditor": "none",
+  "workbench.statusBar.visible": true,
+  "workbench.sideBar.location": "left",
+  "files.trimFinalNewlines": true,
+  "workbench.editor.showTabs": true,
+    "files.associations": {
+       "*.js": "javascript"
+    },
+    "[javascript]": {
+       "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[scss]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[less]": {
+       "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[html]": {
+       "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "javascript.updateImportsOnFileMove.enabled": "prompt",
+    "javascript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBrackets": true,
+    "javascript.preferences.quoteStyle": "single",
+    "javascript.preferences.importModuleSpecifier": "relative",
+    "javascript.suggest.completeJSDocs": true,
+    "javascript.format.enable": true,
+    "javascript.autoClosingTags": true,
+    "javascript.suggestionActions.enabled": true,
+    "javascript.referencesCodeLens.enabled": true,
+    "prettier.printWidth": 120,
+    "prettier.useTabs": true,
+    "prettier.tabWidth": 4,
+    "prettier.singleQuote": true,
+    "prettier.jsxSingleQuote": true
+}
